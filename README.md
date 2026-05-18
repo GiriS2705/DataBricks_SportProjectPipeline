@@ -115,6 +115,3 @@ The platform delivers:
 
 ---
 
-# Author
-
-Girish
